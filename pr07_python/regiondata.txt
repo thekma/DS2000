@@ -1,0 +1,320 @@
+Stanford University	California	70400	129000
+California Institute of Technology (CIT)	California	75500	123000
+Harvey Mudd College	California	71800	122000
+University of California, Berkeley	California	59900	112000
+Occidental College	California	51900	105000
+Cal Poly San Luis Obispo	California	57200	101000
+University of California at Los Angeles (UCLA)	California	52600	101000
+University of California, San Diego (UCSD)	California	51100	101000
+Pomona College	California	48600	101000
+University of Southern California (USC)	California	54800	99600
+University of California, Davis	California	52300	99600
+University of California, Irvine (UCI)	California	48300	96700
+San Jose State University (SJSU)	California	53500	95600
+University of California, Santa Barbara (UCSB)	California	50500	95000
+California State University (CSU), Chico	California	47400	88100
+California State University, Fullerton (CSUF)	California	45700	87000
+San Francisco State University (SFSU)	California	47300	86400
+San Diego State University (SDSU)	California	46200	85200
+California State University, Long Beach (CSULB)	California	45100	84700
+California State University, East Bay (CSUEB)	California	49200	84300
+University of California, Santa Cruz (UCSC)	California	44700	84100
+California State University, Sacramento (CSUS)	California	47800	82400
+University of California, Riverside (UCR)	California	46800	81300
+California State University, Northridge (CSUN)	California	45500	80400
+California State University, Dominguez Hills (CSUDH)	California	42700	72100
+California State University (CSU), Stanislaus	California	38000	71400
+Humboldt State University	California	42600	71300
+Thomas Aquinas College	California	41500	67500
+Colorado School of Mines	Western	58100	106000
+University of Colorado - Boulder (UCB)	Western	47100	97600
+New Mexico Institute of Mining and Technology (New Mexico Tech)	Western	51000	93400
+Brigham Young University (BYU)	Western	49400	88600
+University of Arizona	Western	47500	86100
+University of Washington (UW)	Western	48800	85300
+Washington State University (WSU)	Western	45300	84700
+University of Colorado - Denver	Western	46100	84400
+Arizona State University (ASU)	Western	47400	84100
+Oregon State University (OSU)	Western	45100	83300
+University of Utah	Western	45400	83200
+University of Nevada, Reno (UNR)	Western	46500	82900
+Seattle University	Western	48300	82800
+University of Idaho	Western	44900	82000
+University of New Mexico (UNM)	Western	41600	81600
+University of Puget Sound	Western	46600	81500
+Colorado College (CC)	Western	38500	81400
+Reed College	Western	40500	81100
+Whitman College	Western	43500	80100
+New Mexico State University	Western	44300	79500
+Colorado State University (CSU)	Western	44800	79000
+University of Wyoming (UW)	Western	44500	78700
+Utah State University	Western	43800	78700
+University of Oregon	Western	42200	78400
+Montana State University - Bozeman	Western	46600	77500
+Gonzaga University	Western	44900	76000
+University of Hawaii	Western	43800	76000
+Western Washington University	Western	42700	75400
+Regis University	Western	48300	73800
+Idaho State University	Western	44900	73400
+University of Alaska, Anchorage	Western	45900	72600
+Lewis & Clark College	Western	38900	72600
+University of Montana	Western	37300	71900
+University of Nevada, Las Vegas (UNLV)	Western	45200	71600
+Portland State University (PSU)	Western	42600	70900
+Eastern Washington University	Western	38600	70900
+Fort Lewis College	Western	42000	69800
+Boise State University (BSU)	Western	40800	69500
+Utah Valley State College	Western	42400	67100
+Evergreen State College	Western	39500	63900
+Southern Utah University	Western	41900	56500
+Montana State University - Billings	Western	37900	50600
+University of Notre Dame	Midwestern	56300	116000
+University Of Chicago	Midwestern	53400	113000
+Carleton College	Midwestern	47500	103000
+Illinois Institute of Technology (IIT)	Midwestern	56000	97800
+Case Western Reserve University	Midwestern	56200	96500
+University of Illinois at Urbana-Champaign (UIUC)	Midwestern	52900	96100
+Northwestern University	Midwestern	52700	95900
+University of Missouri - Rolla (UMR)	Midwestern	57100	95800
+South Dakota School of Mines & Technology	Midwestern	55800	93400
+University of Michigan	Midwestern	52700	93000
+Purdue University	Midwestern	51400	90500
+Marquette University	Midwestern	48500	88400
+DePauw University	Midwestern	41400	88200
+University of Wisconsin (UW) - Madison	Midwestern	48900	87800
+Bradley University	Midwestern	47000	87300
+St. Olaf College	Midwestern	45300	86200
+Michigan State University (MSU)	Midwestern	46300	85300
+DePaul University	Midwestern	46400	84800
+Iowa State University	Midwestern	45400	84600
+University of Minnesota	Midwestern	46200	84200
+Indiana University (IU), Bloomington	Midwestern	46300	84000
+University of Iowa (UI)	Midwestern	44700	83900
+Ohio State University (OSU)	Midwestern	44900	83700
+Denison University	Midwestern	42000	83500
+University of Illinois at Chicago	Midwestern	47500	81700
+Oberlin College	Midwestern	43400	81600
+University of Kansas	Midwestern	42400	81600
+University of Missouri - Columbia	Midwestern	41700	81000
+University of Nebraska	Midwestern	45700	80900
+Northern Illinois University (NIU)	Midwestern	43600	80800
+Gustavus Adolphus College	Midwestern	44500	80600
+University of North Dakota	Midwestern	44000	80600
+Kansas State University (KSU)	Midwestern	43300	79000
+University of Wisconsin (UW) - Platteville	Midwestern	45800	78500
+Wittenberg University	Midwestern	39200	78200
+North Dakota State University (NDSU)	Midwestern	45100	77800
+Grinnell College	Midwestern	42600	76600
+Wayne State University	Midwestern	42800	76100
+University of Toledo	Midwestern	43100	75900
+University of Wisconsin (UW) - Whitewater	Midwestern	40800	75500
+Minnesota State University - Mankato	Midwestern	43300	74700
+University of Wisconsin (UW) - Milwaukee	Midwestern	42300	74600
+Western Michigan University (WMU)	Midwestern	42300	73800
+South Dakota State University (SDSU)	Midwestern	41100	73500
+Ohio University	Midwestern	42200	73400
+Illinois State University	Midwestern	42000	73400
+Cleveland State University	Midwestern	43500	73100
+University of Nebraska at Omaha	Midwestern	41500	72600
+Southern Illinois University Carbondale	Midwestern	43000	72500
+Eastern Michigan University	Midwestern	40300	72100
+Bowling Green State University	Midwestern	39800	72100
+St. Cloud State University	Midwestern	41800	71400
+University of Wisconsin (UW) - Parkside	Midwestern	40700	71400
+University of Akron	Midwestern	41100	70300
+Missouri State University (MSU)	Midwestern	36100	69500
+University of Wisconsin (UW) - La Crosse	Midwestern	42200	69300
+University of Wisconsin (UW) - Stout	Midwestern	43600	68300
+Robert Morris College (RMC)	Midwestern	38500	68200
+University of Missouri - St. Louis (UMSL)	Midwestern	41400	67100
+University of Wisconsin (UW) - Oshkosh	Midwestern	39300	66400
+University of Missouri - Kansas City (UMKC)	Midwestern	38900	65800
+University of Wisconsin (UW) - Eau Claire	Midwestern	41400	64800
+Ball State University (BSU)	Midwestern	39100	64500
+Park University	Midwestern	44300	64300
+University of Wisconsin (UW) - Stevens Point	Midwestern	39800	64000
+Kent State University	Midwestern	38700	62600
+University of Wisconsin (UW) - Green Bay	Midwestern	35800	60600
+Indiana Wesleyan University (IWU)	Midwestern	39800	58500
+Pittsburg State University	Midwestern	40400	58200
+Davenport University	Midwestern	39700	46600
+Black Hills State University	Midwestern	35300	43900
+Rice University	Southern	64000	110000
+Georgetown University	Southern	55000	110000
+Duke University	Southern	58900	106000
+Georgia Institute of Technology	Southern	58300	106000
+Washington and Lee University	Southern	53600	104000
+Vanderbilt University	Southern	51200	104000
+Davidson College	Southern	46100	104000
+University of Virginia (UVA)	Southern	52700	103000
+George Washington University (GWU)	Southern	47000	97900
+Texas A&M University	Southern	49700	96100
+Tulane University	Southern	49100	95800
+Virginia Polytechnic Institute and State University (Virginia Tech)	Southern	53500	95400
+University of Maryland, College Park	Southern	52000	95000
+University of Richmond	Southern	48600	94600
+University of Texas (UT) - Austin	Southern	49700	93900
+Emory University	Southern	52000	91600
+American University, Washington D.C.	Southern	45300	90800
+University of Tulsa	Southern	42400	88700
+Baylor University	Southern	48300	88600
+University of Florida (UF)	Southern	47100	87900
+Louisiana State University (LSU)	Southern	46900	87800
+George Mason University	Southern	47800	86900
+Clemson University	Southern	48400	86000
+University of Georgia (UGA)	Southern	44100	86000
+Auburn University	Southern	45400	84700
+University of Delaware	Southern	45900	84500
+Randolph-Macon College	Southern	42600	83600
+North Carolina State University (NCSU)	Southern	47200	83300
+University of Oklahoma	Southern	44700	82900
+University of Arkansas	Southern	44100	82800
+University of Alabama at Huntsville (UAH)	Southern	43100	82700
+Howard University	Southern	46900	81800
+University of North Carolina at Chapel Hill (UNCH)	Southern	42900	81500
+University of Alabama, Tuscaloosa	Southern	41300	81400
+University of Texas at Arlington (UTA)	Southern	45400	80800
+Oklahoma State University	Southern	42800	80700
+Tennessee Technological University	Southern	46200	80000
+University of Houston (UH)	Southern	46000	79900
+University of Mississippi	Southern	41400	79700
+Lamar University	Southern	46500	79400
+Mississippi State University (MSU)	Southern	44500	79300
+University of Kentucky (UK)	Southern	42800	78300
+Texas Christian University (TCU)	Southern	45100	78100
+West Virginia University (WVU)	Southern	43100	78100
+University of Maryland Baltimore County (UMBC)	Southern	47000	77800
+University of Louisiana (UL) at Lafayette	Southern	41100	76300
+Florida International University (FIU)	Southern	43200	75500
+University of Tennessee	Southern	43800	74600
+University of Arkansas - Monticello (UAM)	Southern	39200	74500
+University of North Carolina at Charlotte (UNCC)	Southern	43100	74000
+Georgia State University	Southern	41800	74000
+LeTourneau University	Southern	49500	73800
+Florida State University (FSU)	Southern	42100	73000
+University of Texas at El Paso (UTEP)	Southern	43400	72100
+University of Central Florida (UCF)	Southern	42600	71700
+University of South Carolina	Southern	40000	71700
+Florida Atlantic University (FAU)	Southern	42600	71100
+University of South Florida (USF)	Southern	41100	71100
+University of Texas at San Antonio (UTSA)	Southern	42500	70700
+University of Alabama at Birmingham (UAB)	Southern	39200	70100
+University of Memphis (U of M)	Southern	41400	69700
+Appalachian State University	Southern	40400	69100
+Virginia Commonwealth University (VCU)	Southern	42000	68400
+East Carolina University (ECU)	Southern	40200	67500
+Western Carolina University	Southern	36900	66600
+Jacksonville University	Southern	46700	66200
+University of North Carolina at Wilmington (UNCW)	Southern	37500	64400
+Oklahoma City University	Southern	40000	64300
+Arkansas State University (ASU)	Southern	38700	63300
+Tarleton State University (TSU)	Southern	40800	62400
+Morehead State University	Southern	34800	60600
+Mississippi College	Southern	35400	60400
+Dallas Baptist University	Southern	39400	60200
+Austin Peay State University	Southern	37700	59200
+Saint Leo University	Southern	40900	57800
+Tusculum College	Southern	36900	55500
+Virginia Wesleyan College (VWC)	Southern	34600	54900
+Lee University (Cleveland, TN)	Southern	34500	53900
+Florida Metropolitan University (FMU)	Southern	36600	51000
+Dartmouth College	Northeastern	58000	134000
+Princeton University	Northeastern	66500	131000
+Massachusetts Institute of Technology (MIT)	Northeastern	72200	126000
+Yale University	Northeastern	59100	126000
+Harvard University	Northeastern	63400	124000
+University of Pennsylvania	Northeastern	60900	120000
+Polytechnic University of New York, Brooklyn	Northeastern	62400	114000
+Cooper Union	Northeastern	62200	114000
+Worcester Polytechnic Institute (WPI)	Northeastern	61000	114000
+Carnegie Mellon University (CMU)	Northeastern	61800	111000
+Rensselaer Polytechnic Institute (RPI)	Northeastern	61100	110000
+Cornell University	Northeastern	60300	110000
+Bucknell University	Northeastern	54100	110000
+Brown University	Northeastern	56200	109000
+Colgate University	Northeastern	52800	108000
+Columbia University	Northeastern	59400	107000
+Amherst College	Northeastern	54500	107000
+Lafayette College	Northeastern	53900	107000
+Bowdoin College	Northeastern	48100	107000
+College of the Holy Cross	Northeastern	50200	106000
+Stevens Institute of Technology	Northeastern	60600	105000
+Lehigh University	Northeastern	59200	105000
+Swarthmore College	Northeastern	49700	104000
+Boston College	Northeastern	52700	103000
+Williams College	Northeastern	51700	102000
+Villanova University	Northeastern	55800	101000
+Fordham University	Northeastern	47800	99900
+Wesleyan University (Middletown, Connecticut)	Northeastern	46500	97900
+Wentworth Institute of Technology	Northeastern	53000	96700
+Bates College	Northeastern	47300	96500
+Binghamton University	Northeastern	53600	95900
+Union College	Northeastern	47200	95800
+New York University (NYU)	Northeastern	50300	95600
+Vassar College	Northeastern	46000	94600
+Middlebury College	Northeastern	47700	94200
+Mount Holyoke College	Northeastern	42400	94200
+Boston University	Northeastern	49000	93900
+Drexel University	Northeastern	53400	93500
+St. John's University, New York	Northeastern	48000	93400
+Long Island University	Northeastern	47300	93200
+Stony Brook University	Northeastern	49500	93000
+Franklin and Marshall College	Northeastern	49100	92800
+Hofstra University	Northeastern	46800	92700
+State University of New York (SUNY) at Albany	Northeastern	44500	92200
+Rutgers University	Northeastern	50300	91800
+Pratt Institute	Northeastern	43800	89900
+Pace University	Northeastern	53200	89700
+Seton Hall University	Northeastern	48900	89200
+Rider University	Northeastern	43600	88900
+University of Connecticut (UConn)	Northeastern	48000	88800
+Providence College	Northeastern	48000	88600
+University of Massachusetts (UMass) - Amherst	Northeastern	46600	88200
+Ithaca College	Northeastern	42700	87400
+University of Massachusetts (UMass) - Lowell	Northeastern	45400	86600
+Northeastern University	Northeastern	50500	86400
+Syracuse University	Northeastern	45700	85900
+Colby College	Northeastern	46400	85800
+Gettysburg College	Northeastern	44700	85800
+Pennsylvania State University (PSU)	Northeastern	49900	85700
+University of Rhode Island (URI)	Northeastern	43900	85300
+Siena College	Northeastern	45500	85200
+La Salle University (Philadelphia)	Northeastern	43400	84700
+Rochester Institute of Technology (RIT)	Northeastern	48900	84600
+Duquesne University	Northeastern	40700	84400
+State University of New York (SUNY) at Farmingdale	Northeastern	47300	84200
+Smith College	Northeastern	44000	83900
+Hamilton College	Northeastern	49200	83700
+Wellesley College	Northeastern	42800	83500
+Widener University	Northeastern	52900	83400
+University of New Haven	Northeastern	44400	82900
+Dowling College	Northeastern	41100	82800
+University of Vermont (UVM)	Northeastern	44800	82700
+State University of New York (SUNY) at Buffalo	Northeastern	46200	81700
+State University of New York (SUNY) at Geneseo	Northeastern	42300	81300
+Fashion Institute of Technology	Northeastern	42800	81000
+Philadelphia University	Northeastern	45100	80300
+Ursinus College	Northeastern	42100	80000
+Adelphi University	Northeastern	40600	79200
+Juniata College	Northeastern	41800	78900
+Fairleigh Dickinson University	Northeastern	45700	78700
+University of New Hampshire (UNH)	Northeastern	41800	78300
+University of Massachusetts (UMass) - Boston	Northeastern	45600	78200
+State University of New York (SUNY) at Oswego	Northeastern	38000	77800
+University of Massachusetts (UMass) - Dartmouth	Northeastern	43200	77700
+State University of New York (SUNY) at Oneonta	Northeastern	37500	76700
+Quinnipiac University	Northeastern	43000	76500
+State University of New York (SUNY) at Plattsburgh	Northeastern	40800	76200
+Sacred Heart University	Northeastern	46000	75300
+Skidmore College	Northeastern	41600	74600
+Moravian College	Northeastern	42500	74400
+Penn State - Harrisburg	Northeastern	45700	74000
+Suffolk University	Northeastern	42100	74000
+Fitchburg State College	Northeastern	42400	72600
+Roger Williams University	Northeastern	42000	72300
+University Of Maine	Northeastern	41200	72100
+State University of New York (SUNY) at Potsdam	Northeastern	38000	70300
+Niagara University	Northeastern	36900	69700
+State University of New York (SUNY) at Fredonia	Northeastern	37800	66200
+University of Southern Maine	Northeastern	39400	63600
+Mercy College	Northeastern	43700	62600

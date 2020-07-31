@@ -1,0 +1,5 @@
+ID  ColA  ColB
+0 Foo alpha
+1 Bar BETA
+2 Baz Gamma
+3 Qux delta
